@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @WouterBoose
+- 👀 I’m interested in learning coding languages
+- 🌱 I’m currently learning python and java
